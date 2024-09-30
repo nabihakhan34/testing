@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>  
+    <title>HOME</title>
+    <link href="CSS/style.css" rel="stylesheet">
+</head>
+<body>
+    <!--header-->
+    <header id="header">
+        <nav class="navbar">
+            <div class="logo">
+                <img src="img/logo-J-only.png">
+            </div>
+            <div class="menu">
+                <ul class="list">
+                 <li><a href="">HOME</a></li>
+                 <li><a href="servic>SERVICE</a></li>
+                 <li><a href="about.html">ABOUT</a></li>   
+                 <li><a href="solution.html">SOLUTION</a></li>
+                 <li><a href="contact.html">CONTACT</a></li> 
+                </ul>
+            </div>
+            <div class="button">
+                <button class="button_1">Book a meeting</button>
+            </div>
+        </nav>
+    </header>
+    <!---header end-->
+    <!---web-->
+    <section class="web_content">
+        <h1 class="main_heading">
+            Your digital transformation
+         <h1 class="main_heading1">   partner in UAE  </h1>
+        </h1>
+    </section>
+    <section class="button2">
+     <button class="button3">Book a meeting</button>
+    </section>
+    <h4 class="heading">Company Overview</h4>
+    <section class="information">
+        <div class="paragraph">
+            The first thing you might think about is that the spelling is wrong! We live in a crooked world Earth is 23.5 degrees tilted from its orbit axis; sometimes â€œBeauty in the flawsâ€.
+        </div>
+        <div class="paragraph_1">
+            Founded in 2020 in Jordan, Jnerations was established to work hand in hand with its partners who needs to move from traditional systems to the new digital world, Jnerations plans to use affordable solutions to bring enterprise technologies to small & medium size companies.
+        </div>
+    </section>
+    <section class="image">
+        <div class="image_1"> 
+            <img src="images/home 1.png">
+            <h1 class="a100">100%</h1>
+            <h4>Customer success</h4>
+            <h4>rate</h4>
+            <br>
+            <h4>No vendor lock-in</h4>
+        </div>
+        <div class="image_2">
+            <img src="images/home2.png">
+            <h1 class="a140">140+</h1>
+            <h4>Happy Customer</h4>
+            <br>
+            <h4>in UAE & Middle East</h4>
+        </div>
+        <div class="image_3">
+            <img src="images/home3.png" >
+            <h1 class="a300">300+</h1>
+            <h4>Workflows</h4>
+            <br>
+            <h4>Automated</h4>
+        </div>
+        <div class="image_4">
+            <img src="images/home4.png">
+            <h1 class="a105">105+</h1>
+            <h4>Successful ERPNext</h4>
+            <br>
+            <h4>Implementation</h4>
+        </div>
+    </section>
+    <h1 class="head">What do we do</h1>
+    <h2 class="text">We offer a wide range of services which will help you in technological world</h2>
+
+    <section class="web_image">
+        <div class="main_image">
+            <div class="service_image">
+                <div class="inner_image">
+                    <img src="images/home5.png" width="75%" height="320px" style="padding-left: 75%; padding: 25px; margin-left: 60px;" >
+                </div>
+            </div>
+            <div class="service_image">
+                <div class="inner_image">
+                    <img src="images/home6.png" width="90%" style="padding-left: 15px; padding: 10px;"  >
+                </div>
+            </div>
+            <div class="service_image">
+                <div class="inner_image">
+                    <img src="images/home7.png" width="75%" height="320px" style="padding-top: 30px;" >
+                </div>
+            </div>
+        </div>
+    </section>
+        
+    <div class="op">
+        <div class="op_1">
+            <h2 style="font-size: 50px; padding-left: 50px; padding-bottom: 10px;">Want to know more</h2>
+            <p style="padding-left: 50px;font-size: 20px;">Letâ€™s explore how we can implement ERPNext to fit your business needs !</p>
+            <button class="button_0">book a meeting</button>
+        </div>
+    </div>
+
+
+   
+   <footer  class="footer">
+        <div class="main_div">
+           <!-- div no 1 -->
+           <div class="div1">
+               <!-- p1 -->
+               <P class="div1_we">We believe that the future is digital. We also
+                   believe that the denial to embrace new
+                   technology, whether personal or corporate,
+                   postpones progress.</P>
+                   <!-- p1 -->
+                   <!-- p2  -->
+
+                   <p class="div1_office">Office # 802, Tower- B
+
+                       Damac Executive Bay
+                       
+                       Dubai – UAE</p>
+                       <!-- p2 -->
+                        <!-- p3 -->
+                       <P class="div1_33">Office No A 33, Mezzanine floor
+
+                           Khalidiya Tower- Tower A
+                           
+                           Dubai – UAE</P>
+                           <!-- p3 -->
+           </div>
+           <!-- div no 1 -->
+            <!-- div no 2 -->
+
+           <div class="div2">
+               <h1 class="social_head">Social</h1>
+               <ul class="social_icons">
+                   <li>Facebook</li>
+                   <li>Twitter</li>
+                   <li>LinkedIn</li>
+               </ul>
+           </div>
+           <!-- div no 2 -->
+
+           <!-- div no 3 -->
+           <div class="div3">
+               <h1 class="jneration">Jneration</h1>
+               <ul class="jneration_icons">
+                   <li>Home</li>
+                   <li>About</li>
+                   <li>Services</li>
+                   <li>Solutions</li>
+                   <li>Contact us</li>
+
+               </ul>
+           </div>
+           <!-- div non 3 -->
+
+           <!-- div no 4 -->
+           <div class="div4">
+               <h1 class="Subscribe">Subscribe</h1>
+               <p>Subscribe to get the latest news form us</p>
+               <input placeholder="Enter email address" type="email" class="email">
+               <button class="button">send</button>
+           </div>
+           <!-- div no 4 -->
+        </div>
+   </footer>
+
+
+    
+
+</body>
